@@ -17,7 +17,7 @@ Dự án này minh họa cách phát hiện đối tượng sử dụng kỹ thu
 
 1. Sao chép kho lưu trữ:
     ```bash
-    git clone https://github.com/your-repo/Object_Detect_Background_Subtraction.git
+    git clone https://github.com/LockMan04/Object_Detect_Background_Subtraction.git
     cd Object_Detect_Background_Subtraction
     ```
 
